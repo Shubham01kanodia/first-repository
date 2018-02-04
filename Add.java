@@ -5,7 +5,7 @@ class Add
 	{
 		int a,b,c;
 		Scanner sc=new Scanner(System.in);
-		System.out.println("enter two number");
+		System.out.println("enter two number now");
 		
 		a=sc.nextInt();
 		b=sc.nextInt();
