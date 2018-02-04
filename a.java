@@ -6,7 +6,7 @@ class A
 	}
 	public void add(double b)
 	{
-		System.out.println("hiii");
+		System.out.println("hiii baba");
 	}
 	public static void main(String []args)
 	{
